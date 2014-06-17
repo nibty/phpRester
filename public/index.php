@@ -7,7 +7,7 @@
  * @package rest-api
  */
 
-require_once(dirname(__FILE__) . '/library/RestApi.php');
+require_once(dirname(__FILE__) . '/../library/RestApi.php');
 
 //  Create a request object
 $request = new Request();
